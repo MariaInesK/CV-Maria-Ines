@@ -6,12 +6,11 @@
  
 I create this Cv as part of Bootstrap assigment for my course CMS & Development Enviroment in September, 2021
 
-
-
- 
- 
+  
  
 <p> <b>Maria Ines Kristiansen <br>
+ 
+ https://MariaInesK.github.io/CV-Maria-Ines
 
 
 Bachelor in Web Development - Zealand Academy, Second Semester.</b></p>
